@@ -1,0 +1,1117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <!-- mandatory -->
+        <fileDesc>
+            <!-- mandatory -->
+            <titleStmt>
+                <title></title>
+                <author></author>
+                <editor></editor>
+                <sponsor></sponsor>
+                <funder></funder>
+                <principal></principal>
+                <respStmt></respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition></edition>
+            </editionStmt>
+            <extent><!-- digital size --></extent>
+            <!-- mandatory -->
+            <publicationStmt></publicationStmt>
+            <seriesStmt></seriesStmt>
+            <notesStmt></notesStmt>
+            <!-- mandatory -->
+            <sourceStmt></sourceStmt>
+        </fileDesc>
+        <encodingDesc>
+
+        </encodingDesc>
+        <profileDesc>
+
+        </profileDesc>
+        <revisionDesc>
+
+        </revisionDesc>
+    </teiHeader>
+    <text type="volume">
+        <front>
+            <titlepage>
+                <pb/>
+                <docTitle>
+                    <titlePart>
+                        <hi rend="uppercase">Arte de<lb/>Navegar</hi>
+                    </titlePart>
+                </docTitle>
+                <byline>Composta por 
+                    <docAuthor>Simão d'Oliveira</docAuthor> na-
+                    <lb break="no"/>tural da cidade de 
+                    <name type="place">Lisboa</name>.
+                </byline>
+                <byline>Dirigida a Dom 
+                    <name type="person">Pedro de Castilho</name> 
+                    <roleName>Bispo de Leiria</roleName>, 
+                    <roleName>Inqui<lb break="no"/>sidor mòr</roleName>, et 
+                    <roleName>Visorey</roleName> em os Reynos de Portugal.</byline>
+                <figure></figure>
+                <byline>Com licença da S. Inquisição et Ordinario.</byline>
+                <docPrint>Em 
+                    <name type="place">Lisboa</name>, Por 
+                    <name type="person">Pedro Crasbeeck</name>, 
+                    <date when="1606">1606</date>.
+                </docPrint>
+                <byline>Com Privilegio Real.</byline>
+            </titlepage>
+
+            <div type="ack">
+                <pb/>
+                <head type="main">A Dom <name type="person">Pedro de Castilho</name></head>
+                <head type="sub">
+                    <roleName>Bispo de Leiria</roleName>, 
+                    <roleName>Inquisidor mòr</roleName>, &#x26; 
+                    <roleName>VisoRey</roleName>
+                    <lb/>em Reynos de 
+                    <name type="country">Portugal</name>.
+                </head>
+
+                <p>Muy bem disse o Emperador Iustinia-
+                    <lb break="no"/>no, q&#x301; a magestade Imperial não sò de
+                    <lb/> uia ser fermoseada cõ armas, mas taõ
+                    <lb/> bem armada cõ leys, &#x26; teue muita re
+                    <lb break="no"/>zão em trocar o q&#x301; às armas se deue,
+                    <lb/> pello q&#x301; he proprio das leys; pois a hu Reyno &#x26; Repub.
+                    <lb/> não menos afermoseaõ, &#x26; illustrão as armas q&#x301; as leys
+                    <lb/> ne a conseruaõ &#x26; defendem menos as leys q&#x301; as armas.
+                    <lb/> Esta mesma sentẽça quadra bẽ a V. illustre S. pois go
+                    <lb break="no"/>uerna cõ leys &#x26; armas estes Reynos &#x26; Coroa de Por
+                    <lb break="no"/>tugal cõ tanta prudencia &#x26; fortaleza, q&#x301; causa espãto
+                    <lb/> &#x26; admiraçaõ, mostrando se taõ animoso, valeroso, &#x26;
+                    <lb/> entẽdido, q&#x301; tẽ dado muy claro testemunho desta verda
+                    <lb break="no"/>de, &#x26; de quã destro està em as armas spirituaes cõ q&#x301;
+                    <lb/> faz tremer aos imigos inuisiueis, &#x26; esquadrões infer
+                    <lb break="no"/>naes. O q&#x301; vendo cobrei animo pera escreuer este breue
+                    <lb/> tratado intitulado Arte de nauegar, por não achar au
+                    <lb break="no"/>ctor algũ q&#x301; sobre esta materia em forma aja escrito,
+                    <lb/> sendo assi q&#x301; he mui importãnte auer em as Repub. quẽ a
+                    <lb/> saiba, por della depẽderẽ os tratos, cõmercios, &#x26; naue
+                    <lb break="no"/>gações, q&#x301; enobrecẽ os estados, enriquecẽ os Reynos, &#x26;
+                    <lb/> popule&#x303;taõ as cidades; &#x26; assi será bastante esta causa
+                    <lb/> peraque V.I.S. receba esta trabalho, &#x26; o empare &#x26;
+                    <lb/> defenda, pois contra as armas de V.I.S. ninguem ou-
+                    <lb break="no"/>sar à menear as suas.</p>
+
+                <head type="sub">Ao prudente lector.</head>
+                <pb/>
+                <p>Muito deuemos (amado lector) aos que com seu
+                    <lb/> engenho &#x26; arte trabalharaõ por nos deixar re
+                    <lb break="no"/>gras &#x26; preceitos com os quaes alcançassemos
+                    <lb/> o de que os antigos careceram; por onde sendo cou-
+                    <lb break="no"/>sa tão necessaria em qualquer Reyno &#x26; Repub. os tra
+                    <lb break="no"/>tos, et nauegações, não deixarei de me queixar do po
+                    <lb/>uco, q&#x301; se procura esta Arte que chamamos nauegar,
+                    <lb/> não auendo quem trate della, como cousa desnecessa
+                    <lb break="no"/>ría, sendo assi que não ha homẽ de nenhum estado,
+                    <lb/> nem qualidade que seja, o qual senão meta nesse mar
+                    <lb/> como será facil ver ao que por todos os estados fizer
+                    <lb/> discurso. Pello qual vos offereço este tratado em o
+                    <lb/> qual achareis algũas curiosidades, não só pera o naue
+                    <lb break="no"/>gar (pera o que não falta cousa algũa) mas pera todas
+                    <lb/> as sciencias Mathematicas; &#x26; assi com bem pouco
+                    <lb/> trabalho &#x26; menos dispendio, &#x26; não com pouco pro
+                    <lb break="no"/>ueito podereis alcançar ser muy destro nauegante;
+                    <lb/> recebendo este pobre presente com o amor &#x26; vonta-
+                    <lb break="no"/>de com que se vos offerece. Vale.</p>
+            </div>
+
+            <div type="dedication">
+                <pb/>
+                <!-- poem -->
+            </div>
+
+            <div type="preface">
+                <div type="section">
+                    <pb/>
+                    <head>Proemio de toda a obra.</head>
+
+                    <p>He a Arte de nauegar, de q&#x301; neste liuro trataremos,
+                        <lb/> hũa das melhores, mais lustrosas, et admiraueis
+                        <lb/> sciencias, q&#x301; as Mathematicas tem, porq&#x301; pos eque
+                        <lb/> outras a excedão na nobreza, por rezão de seus
+                        <lb/> sujeitos serem mais nobres, não a vencem na cu-
+                        <lb break="no"/>riosidade et gosto, pois nenhũ pode auer em seu
+                        <lb/> genero maior q&#x301; saberẽ os homẽs caminhar com tanta certeza por esses
+                        <lb/> mares, onde caminhos não apparecem, assi et da maneira q&#x301; pella terra
+                        <lb/> a fazem, onde a continuaçaõ os tem ja feito. Porq&#x301; assi como o Author
+                        <lb/> da natureza, que com sua prouidencia gouerna tudo, fazendo na crea
+                        <lb break="no"/>ção do mundo a conseruação de nosso ser dependẽte das influencias dos
+                        <lb/> Planetas et estrellas, com q&#x301; esmaltou o ceo, deu engenho et habilidade
+                        <lb/> aos homẽs pera virẽ em conhecimento dellas, assi na creação das cou-
+                        <lb break="no"/>sas necessarias pera a vida et sustentação das creaturas, ordenou que
+                        <lb/> as terras se ouuessem de tal modo, que o que em hũa se achasse, fal-
+                        <lb break="no"/>tasse na outra, nem hũa fosse tão abudante que tudo em si tivesse,
+                        <lb/> nem outra tão esteril que de tudo carecesse; pera que asssi a necessi-
+                        <lb break="no"/>dade que às leys faz força, obriguasse os homẽs, postoque remotos &#x26;
+                        <lb/> separados bũs dos outros com distancia de lugares, et agoa que di-
+                        <lb break="no"/>uide a terra em que habitaõ à communicaçaõ et trato. E ainda que
+                        <lb/> esta Arte em seus principios (como acontece em as mais cousas) fos-
+                        <lb break="no"/>se muito imperfeita, foy com o tempo crescendo tanto; que pera che-
+                        <lb break="no"/>gar a sua perfeiçaõ parece faltarlhe ja muito pouco, pois deixando
+                        <lb/> de parte tanta diuersidade de naos, de que os antigos careceram,
+                        <lb/> quanta ao presenre vemos, de tão varias figuras, pera tão diuersas
+                        <lb/> vias, temos as Cartas Hydrographicas, Agulhas de marear, et vso do
+                        <lb/> Astrolabio, com outros instrumentos, com que a Arte de nauegar tanto
+                        <lb/> se estendeo et acrescentou, que o que a antiguidade apregoou
+                        <lb/> quasi por impossiuel da nauegaçaõ do mar alto, perdida a terra de vi-
+                        <lb break="no"/>sta, hoje he tão cõmum et ordinario, que a ninguem poem ja espanto.</p>
+                    <pb/>
+                    <p>Trataram desta materia antes de nos algũns Astronomos, posto
+                        <lb/> que sem ordem, por nenhum delles a reduzir a methodo de modo,
+                        <lb/> que se podesse ensinar et aprender, et posto que a reduziraõ apro-
+                        <lb break="no"/>ueitada pouco, por todos esereuerem em Latim, saluo hum Pero Nu-
+                        <lb break="no"/>nes Cosinographo mòr del Rey Dom Ioão o terceiro, que estè em glo-
+                        <lb break="no"/>ria, o qual traduzio de Latim em Portugues auera 69. annos a Es-
+                        <lb break="no"/>phera, et lhe acrescentou algũa cousa da nauegaçaõ. Por onde assi
+                        <lb/> como dos acordos et conselhos, os segundos saõ sempre mais preza-
+                        <lb break="no"/>dos que os primeiros, por aquelles serem derradeiros, et depois des-
+                        <lb break="no"/>tes, como de Euripides na tragedia de Hyppolito, o tomou o vulgar
+                        <lb/> pouerbio Grego: assi nos tratados tem obrigaçaõ os que depois dos
+                        <lb/> primeiros escreuem illustrallos et acrescentallos; et por isso as scien-
+                        <lb break="no"/>cias et artes nascendo de poucos principios, com o engenho et in-
+                        <lb break="no"/>dustria dos que depois escreueram, foram em tanto augmento cres-
+                        <lb break="no"/>cendo, não sò no Ilustre et clareza, mas ainda descubrindo nouas cou-
+                        <lb break="no"/>sas. Confessamos porem deuerse mais douuor aos inuentores, por
+                        <lb/> serem os primeiros, assi como na Arte militar se dà com justiça o
+                        <lb/> mòr louuor, honra, et gloria, ao que primeiro entrou em a imiga for-
+                        <lb break="no"/>taleza. Com esta salua não sò pretendo mostrar a obrigação que to-
+                        <lb break="no"/>mo, mais muy particularmente referir, et ensinar tudo o que esta
+                        <lb/> Arte pertencer, guardando a seguinte ordem.</p>
+                    
+                    <p>Trataremos no 1. liu. dos Circulos da Esphera Artificial, por
+                        <lb/> ella ser o fundamento et alicesses em que todas as sciencias Mathe-
+                        <lb break="no"/>maticas estribaõ, et de cuja noticia depende tanto o conhecimento
+                        <lb/> do que auemos de ensinar, que seria inuy dificultoso (pera que naõ
+                        <lb/> digamos impossivel) alcannsarse sem ella cousa algũa. No 2. apon-
+                        <lb break="no"/>taremos os officios dos ditos Circulos, assi pera mor clariza, como
+                        <lb/> pera escusarmos em outra parte repetições. No 3. ensinaremos o
+                        <lb/> modo com que se haõ de fazer perfeita et acabadamente não só os
+                        <lb/> dous mais famosos et necessarios instrumentos, de que na nauegação
+                        <lb/> sera de usar, quaes saõ o Astrolabios et Agulha de marear, mas tam-
+                        <lb break="no"/>bem outros os melhores et mais exactos que ate o presente se tem a-
+                        <lb break="no"/><pb/>chado. No 4. diremos o que toca ao vso dos sobreditos instrumen-
+                        <lb break="no"/>tos, et preceitos de nauegar, referindo tod o louuor, se algum de
+                        <lb/> tão pequena obra se merece, a Deos author et fonte de que todo o
+                        <lb/> bemmana.</p>
+                </div>
+
+                <div type="section">
+                    <head type="main">
+                        <hi rend="uppercase">Estes sam os avtores anti-</hi>
+                        <lb break="no"/>guos &#x26; modernos, dos quaes se tirou a dou-
+                        <lb/>trina deste tratado.
+                    </head>
+
+                    <head type="sub">Autores antigos.</head>
+                    <list rend="unmarked">
+                        <item><name type="person">Aristoteles/</name> principe dos Philosophos.</item>
+                        <item><name type="person">Ptolomeo</name> principe dos Mathematicos.</item>
+                        <item><name type="person">Oroncio</name>.</item>
+                        <item><name type="person">Gemaphrysio</name>.</item>
+                        <item><name type="person">João de Monte Rey</name>.</item>
+                        <item><name type="person">Alphragano</name>.</item>
+                        <item><name type="person">Albategnio</name>.</item>
+                        <item><name type="person">Sacrobosco</name>.</item>
+                    </list>
+
+                    <head>Autores modernos.</head>
+                    <list>
+                        <item><name type="person">Magino</name>.</item>
+                        <item><name type="person">Thycobrahe</name>.</item>
+                        <item><name type="person">Pero Nunes</name> Cosmographo mór del Rey dóm Ioão.</item>
+                        <item><name type="person">Ioão Baptista Labanha</name> Cosmographo mór Del Rey
+                            <lb/> Dom Phelippe nosso senhor.</item>
+                        <item>O <roleName>Padre</roleName> <name type="person">Francisco da Costa</name> da companhia de Iesu,
+                            <lb/> mestre de Mathematica insigne.</item>
+                    </list>
+                </div>
+
+            </div>
+            <div type="licenses">
+                <pb/>
+                <head><hi rend="uppercase">Licenças.</hi></head>
+                <p>Por mandado do senhor Bispo dom <name type="person">Pedro de Ca-
+                    <lb break="no"/>stilho</name> Inquisidor mór, vi &#x26; examinei este liuro
+                    <lb/> intitulado <name type="book">Arte de nauegar</name>. E em tudo me pare
+                    <lb/> ceo muy digno de se lhe dar licença pera q&#x301;se impri-
+                    <lb break="no"/>ma, porque não só carece de toda a falta contra a fê
+                    <lb/> &#x26; bõs costumes, mas mostra poder ser de muita vtili
+                    <lb break="no"/>dade, assi aos nauegantes, como aos studiosos das scie&#x303;
+                    <lb break="no"/>ncias mathematicas. Em nossa Senhora da Graça de
+                    <lb/> <name type="city">Lisboa</name> a <date when="1606-05-06">6. de Mayo de 606</date>.
+                </p>
+                <p>
+                    <name type="person">
+                    <choice>
+                        <abbr type="initial">Fr.</abbr>
+                        <expan>Frei</expan>
+                    </choice> Antonio Freire</name>.
+                </p>
+
+                <p>Vista a informação podese imprimir este liuro
+                    <lb/> intitulado <name type="book">Arte de nauegar</name>, &#x26; depois de impres
+                    <lb break="no"/>so torne a este conselho pera se conferir, &#x26; dar
+                    <lb/> licença pera correr, &#x26; sem ella não correra. Em <name type="city">Lis-
+                    <lb break="no"/>boa</name> <date when="1606-05-09">9. de Mayo de 606</date>.</p>
+                <p><name type="person">Marcos Teixeira</name>.      <name type="person">Ruy Pirez da Veiga</name>.</p>
+
+                <p>Vista a approuaçaõ acima podese imprimir a 
+                    <date when="1606-05-09">9.
+                    <lb/> de Mayo de 606</date>.</p>
+                <p><name type="person">Saraiva</name>.</p>
+                <p>Podese imprimir este liuro, vista a licenca que of-
+                    <lb/>ferece do <choice><abbr>S.</abbr><expan>Santo</expan></choice> Officio, &#x26; do Ordinario, &#x26; ser visto
+                    <lb/> nesta mesa do desembargo do Paço. A <date when="1606-05-12">12. de Mayo
+                    <lb/> de 1606</date>.</p>
+                <p><name type="person">Iamião d'Aguiar</name>.      <name type="person">Pero Nunes da Costa</name>.</p>
+
+            </div>
+            <div type="previledge">
+                <pb/>
+                <head>
+                    <hi rend="uppercase">Privilegio</hi>.
+                </head>
+
+                <p>Eu el Rey faço saber aos que este aluará virem, q&#x301;
+                    <lb/> hauẽdo respeito ao que na petiçaõ atras escripta
+                    <lb/> diz 
+                        <name type="person">Simaõ d'Oliveira</name>, &#x26; visto as causas q&#x301; alega:
+                    <lb/> Ey por bem &#x26; me praz, que por tempo de dez annos
+                    <lb/> imprimidor nẽ outro liureiro algũ, &#x26; pessoa de qual-
+                    <lb break="no"/>quer qualidade que seha, não possa imprimir, nem
+                    <lb/> vender em todos estes Reynos &#x26; senhorios, nem tra-
+                    <lb break="no"/>zer de fora delles o liuro intitulado 
+                        <name type="book">Arte de nauegar</name>
+                    <lb/> de que na dita petiçaõ faz mençaõ: suluo aquelles li-
+                    <lb break="no"/>ureiros, &#x26; pessoas que pera isso tiuerem seu poder &#x26;
+                    <lb/> licença, &#x26; qualquer imprimidor, liureiro, ou pessoa,
+                    <lb/> que durando o dito tempo de dez annos, que começa
+                    <lb break="no"/>raõ de correr da feitura deste emdiante, vender, ou im
+                    <lb break="no"/>primir nos ditos meus Reynos &#x26; senhorios, ou trou-
+                    <lb break="no"/>xer de fora delles, perderá pera elle dito 
+                        <name type="person">Simaõ d'O-
+                    <lb break="no"/>liueira</name> todos os volumes q&#x301; assi imprimir, vender, ou
+                    <lb/> trouxer de fora, &#x26; alem disso encorrera em pena de
+                    <lb/> cem crusados, a metade pera o dito 
+                        <name type="person">Simão d'Oliuei-
+                    <lb break="no"/>ra</name>, &#x26; a outra a metade pera quem o accusar: &#x26; man-
+                    <lb break="no"/>do às justiças, officiaes, &#x26; pessoas a que o conhecimen-
+                    <lb break="no"/>to disto pertencer, cumpraõ &#x26; guardem inteiramen-
+                    <lb break="no"/>te como se nelle conthem, o qual sera tresladado no
+                    <lb/> principio de cada liuro; &#x26; quero que valha como car
+                    <lb break="no"/>ta, sem embargo da ordenaçaõ do 2. liu. tit. 40. em cõ-
+                    <lb break="no"/>trario. 
+                        <name type="person">Francisco Ferreira</name> o fez em 
+                        <name type="city">Lisboa</name> a 
+                        <date when="1606-05-26">
+                            <num type="roman" value="26">xxvj</num> de
+                    <lb/> Mayo de mil seiscentos &#x26; seis
+                        </date>. 
+                        <name type="person">Ioão Trauaços da
+                    <lb/> Costa</name> o fez escreuer.</p>
+                <p>
+                    <!-- MISSING connect to the king name entity-->
+                    <rs type="person">
+                        <hi rend="uppercase">Rey</hi>
+                    </rs>.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="book" n="1">
+                <div type="preface">
+
+                    <head type="main">
+                        <hi rend="uppercase">Livro Primeiro<lb/> dos circvlos<lb/> da esphera artificial:</hi>
+                    </head>
+                    <head type="sub">
+                        <hi rend="uppercase">Prefacçam.</hi>
+                    </head>
+
+                    <p>Pera declarar cousas difficulto-
+                        <lb break="no"/>sas, que nossos sentidos não podẽ
+                        <lb/> perceber sem preceder outro co-
+                        <lb break="no"/>nhecimẽto, he custume de sabios
+                        <lb/> vsar de smelhantes figuras, pel-
+                        <lb break="no"/>las quaes, como por degraos, nos-
+                        <lb break="no"/>so entendimento, que em quanto
+                        <lb/> nesta vida estamos, depende em
+                        <lb/> seu conhecimento dos sentidos, va subindo &#x26; alcan-
+                        <lb break="no"/>çãdo o que por ellas se representa. Assi os sabios As-
+                        <lb break="no"/>tronomos pera ensinarem os varios arcos, que em os
+                        <lb/> ecos imaginaõ, com outras muitas cousas a que nossa
+                        <lb/> vista se não estende, inuentarão hum instrumẽto cha-
+                        <lb break="no"/>mado Esphera Artificial, em a qual não com menos
+                        <lb/> engenho que verdade, nos mostraõ em pequena quã
+                        <lb break="no"/>tidade o sitio &#x26; figura do Vniuerso &#x26; suas partes com
+                        <lb/> os mouimentos dos ceos, &#x26; outras muitas curiosi-
+                        <lb break="no"/>dades.</p>
+
+                </div>
+                <div type="chapter" n="1">
+                    <pb/>
+                    <head type="main">
+                        <hi rend="uppercase">Capitvlo <num type="roman" value="1">I</num>.</hi>
+                    </head>
+                    <head type="sub">
+                        <hi rend="italic">Do inventor da Esphera, &#x26; fim pera
+                        <lb/> que foy inuentada.</hi></head>
+
+                    <p>Sendo tão digno de eterna memoria o inuentor da
+                        <lb/> Esphera, não consta entre os auctores quem fosse
+                        <lb/> o que esta gloria merecesse, porq Plinio no liu. 2.
+                        <lb/> da historia natural cap. 8. diz que foi Atlas Rey da
+                        <lb/> Mauritania, o que ja por esta rezão pode ser que os
+                        <lb/> Poetas finguiram que sustentaua o ceo a seus hõbros.
+                        <lb/> E fora de azeitar este parecer de Plinio senão se con-
+                        <lb break="no"/>tradissera no liu. 7. da mesma historia cap. 56. onde
+                        <lb/> faz inuentor a Anaximandro Milesio. Verdade he q
+                        <lb/> estas contradições em Plinio tem facil a desculpa,
+                        <lb/> por sua professaõ ser mais referir de outros, que assen
+                        <lb break="no"/>tar o que se ha de ter em cada cousa ponderadas as re
+                        <lb break="no"/>zões; por onde com muí pouca rezão reprendeo Iun-
+                        <lb/>tino (grande ajuntador do que os Mathematicos dis-
+                        <lb break="no"/>seram, ainda que sem ordem) a Plinio dá tal contra-
+                        <lb break="no"/>dição, pois tem tão facil &#x26; razionauel escusa.</p>
+
+                    <p>Tullio &#x26; materno affirmão que Archimedes Sy-
+                        <lb break="no"/>racusanno foi o primeiro iuentor, o qual com admi-
+                        <lb break="no"/>rauel industria, &#x26; marauelhosa arte fez hũa Esphera
+                        <lb/> de vidro, em a qual pella transparencia da materia se
+                        <lb/> víaõ os varios mouimentos dos ceos, &#x26; principalmẽ
+                        <lb break="no"/>te os dos dous planetas Sol &#x26; Lua, mouendose em
+                        <lb/> seus orbes, assí &#x26; da maneíra que em seus ceos o fa-
+                        <lb break="no"/>zem; a cuja imítaçaõ nẽ com ínferior industria, nem
+                        <lb break="no"/> menos arte posto que em diuersa materia, algũs mo-
+                        <lb break="no"/>dernos fizeram Espheras, em que respondentemente
+                        <lb/> se mostruão os varios mouimentos dos ceos.</p>
+                    <pb/>
+                    <p>Deogenes Laercio faz mui antiga a Esphera dan
+                        <lb break="no"/>do o louuor de sua inuenção a Musêo antiquissimo
+                        <lb/> poeta; mas fosse qualquer dos sobreditos o que tanta
+                        <lb/> gloria alcançasse, não tem nella a menor parte va-
+                        <lb break="no"/>rões doutos de nosso tempo, os quaes com seus escri-
+                        <lb break="no"/>tos notauelmente illustraram o tosco que em seus
+                        <lb/> os antigos nos deixaram.</p>
+                    <p>Foi inuentada a Esphera Artificial pera por meyo
+                        <lb/> de seu conhecimento se facilitar a especulação, &#x26; no-
+                        <lb break="no"/>ticia da Esphera Natural ou theorica do mundo ( da
+                        <lb/> qual trataremos com o fauor diuino em outro tomo
+                        <lb/> &#x26; tratado particular) porque como não esteja em nos
+                        <lb break="no"/>sa mão subir ao ceo, passear por elle, &#x26; ver o que qua
+                        <lb/> na terra imaginamos, nem a nossa ídade seja tanta q
+                        <lb/> alcanse todos os successos celestes futuros, nem nesta
+                        <lb/> breue vida que viuemos, habitemos em todos os lu-
+                        <lb break="no"/>gares juntamente em hum tempo, pera ver onde he
+                        <lb/> dia onde doite, onde nasce o sol &#x26; as estrellas, &#x26; on-
+                        <lb break="no"/>de se poem, o que tudo he necessario pera se ter noti-
+                        <lb break="no"/>cia do que se fez na região celeste; conuinha que ou-
+                        <lb break="no"/>uesse hum instrumento, em o qual se pintasse aos o-
+                        <lb break="no"/>lhos, &#x26; representasse ao entendimento o que no ceo
+                        <lb/> se ímagina, como o faz esta marauilhosa &#x26; engenho-
+                        <lb break="no"/>sa Esphera Artificial, mostrandonos as partes, sitio, fi-
+                        <lb break="no"/>gura, grandeza, &#x26; mouimento do ceo.</p>
+                </div>
+                <div type="chapter" n="2">
+                    <head type="main">
+                        <hi rend="uppercase">Capit. <num type="roman" value="2">II</num>.</hi>
+                    </head>
+                    <head type="sub">
+                        <hi rend="italic">Das definições das partes da Esphera, &#x26; voca-
+                            <lb break="no"/>bulos de que adiante se ha de vsar.</hi>
+                    </head>
+
+
+                    <p>Antes que entremos na definição da Esphera serà
+                        <lb/> conueniente de declarar primeiro as definições<pb/>
+                        <lb/> de suas partes, &#x26; termos de falar, ou vocabulos, de q
+                        <lb/> auemos vsar ao diante, por quanto do conhecimento
+                        <lb/> destas cousas depende a intelligencia da dita defini-
+                        <lb break="no"/>ção; &#x26; assi comelando pella Superficie dizemos ser
+                        <lb/> esta a grandeza longa &#x26; larga que a Esphera compre
+                        <lb break="no"/>hende, a qual por ser redonda se chama Superficie es-
+                        <lb break="no"/>pherica. Centro he hum ponto que está no meyo da
+                        <lb/> Esphera, do qual todas as linhas que ate sua Superfi-
+                        <lb break="no"/>cie se tirão saõ entre si iguaes. Diametro he hũa linha
+                        <lb/> direita tirada pello Centro da Esphera, &#x26; terminada
+                        <lb/> em duas partes ou pontos de sua Superficie. Semidia
+                        <lb break="no"/>metro he a metade da dita linha. Plano he o corta-
+                        <lb break="no"/>mento que o Diametro descreue. Eixo he hum Dia-
+                        <lb break="no"/>metro fixo &#x26; immouel, ao redor do qual se moue a
+                        <lb/> Esphera. polos saõ os pontos extremos do Eixo, que
+                        <lb/> tocão na Superficie da Esphera. Acerca dos quaes se
+                        <lb/> ha de notar, que posto que por outro nome se chamẽ
+                        <lb/> Cardines, que he o mesmo que couseiras de portas,
+                        <lb/> he lhe com tudo mais proprio o nome de Polos, por
+                        <lb/> quanto os pontos de Oriente &#x26; Occidente, se chamão
+                        <lb/> tambem cardines ou causeiras.</p>
+                    <p>Tem porem cada hum dos sobreditos Polos va-
+                        <lb break="no"/>rios nomes, porque hum se chama Arctico de hũa fi-
+                        <lb break="no"/>gura ou constellaçaõ de sete estrellas, que junto a elle
+                        <lb/> está, chamada dos Gregos Arctos, dos Latinos Vrsa,
+                        <lb/> &#x26; dos nossos nauegantes Bozina. Chamase tambem
+                        <lb/> Polo seprentrional, deriuando o nome desta palaura
+                        <lb/> Latina, Septentrion, por rezão das mesma sete es-
+                        <lb break="no"/>trellas, que por semelhança se chamão trilhadoras,
+                        <lb/> porque trilhando as partes visinhas ao dito Polo, fa-
+                        <lb break="no"/>zem seu mouimento ao redor delle; o qual por outro
+                        <lb/> nome se chama boreal, por ventar daquella parte o<pb/>
+                        <lb/> vento chamado dos Italianos Boreas. Os nauegantes
+                        <lb/> do mar Mediterraneo lhe chamão Polo de Tremon-
+                        <lb break="no"/>tana, &#x26; os do mar Oceano Polo do Norte, porque da
+                        <lb break="no"/>quella parte vem os ventos dos memso nomes. Nos
+                        <lb/> lhe chamamos Polo apparente, por este ser o que nos
+                        <lb/> apparece sobre o Horizonte.</p>
+                    <p>O outro Polo se chama Antarctivo, que val o mes
+                        <lb break="no"/>mo que o opposto ou contrario ao Arctico, &#x26; por ou-
+                        <lb break="no"/>tro nome austral, por vir daquella parte o vento Au-
+                        <lb break="no"/>stro, &#x26; tambem meridional por quanto o Sol a respei
+                        <lb break="no"/>to nosso faz o meuo día pera a parte deste Polo, &#x26; pel
+                        <lb break="no"/>la mesma rezaõ lhe chamão os Italianos Polo de me
+                        <lb break="no"/>dio iorno, &#x26; nos os Portuguesses lhe chamamos Po-
+                        <lb break="no"/>lo do Sul, por ventar daquella parte o vento Sul, &#x26;
+                        <lb/> Polo occulto, por se nos esconder debaixo do Hori-
+                        <lb break="no"/>zonte.</p>
+                    <p>Tornemos agora aproseguir adeclaração dos ter-
+                        <lb break="no"/>mos. Orbe he hum corpo comprehendido de duas Su
+                        <lb break="no"/>perficies esphericas hũa interior chamada concaua,
+                        <lb/> &#x26; outra exterior chamada conuexa. Circunferencia
+                        <lb/> ou Peripheria he a volta ou roda do Orbe. Angulo es
+                        <lb break="no"/>pheral he hũa Superficie espherica formada na comũ
+                        <lb/>secçaõ ou cortamento de duas Circũferencias . O qual
+                        <lb/> Angulo espheral ou he recto ou obliquo. Angulo re-
+                        <lb break="no"/>cto espheral he o que se comprehende de dous arcos
+                        <lb/> de circulos cuios Planos saõ entre se perpendículares
+                        <lb/> que he cortarem se hum ao outro diritamente, &#x26; o
+                        <lb/> obliquo ao contrario. Circulo da Esphera he aquelle,
+                        <lb/> cuja Circunferencia esta descrita na Superficie della.
+                        <lb/> Semicirculo he hum meyo circulo. O círculo ou he
+                        <lb/> recto ou obliquo. Circulo recto se diz aquelle cuyas
+                        <lb/> partes distão igualmente de cada hum dos Polos da<pb/>
+                        <lb/> Esphera, &#x26; o oblíquo ao contrario. Polos de Circulo
+                        <lb/> da Esphera saõ os pontos dos quaes todas as linhas
+                        <lb/> que ate sua Circunferẽcia se tiraõ saõ entresi iguaes.
+                        <lb/> Circulos parallellos saõ aquelles, cujos Planos saõ pa
+                        <lb break="no"/>rallellos, que he estarem emparelhados guardando
+                        <lb/> sempre igual distancia. Os Circulos parallellos tem
+                        <lb/> os mesmos Polos saõ parallellos. Os circulos da Esphera se
+                        <lb/> cortaõ &#x26; tocaõ, quando na comum secção ou corta
+                        <lb break="no"/>mento de seus Planos se cortarem &#x26; tocarem hum
+                        <lb/> ao outro. Os circulos maximos da Esphera saõ aquel
+                        <lb break="no"/>les que passaõ por seu centro, &#x26; os que naõ passaõ se
+                        <lb/> dizem menores. Hemispherio he hũa figura solida
+                        <lb/> comprehendida da meya Superficie espherica &#x26; de
+                        <lb/> hum Círculo maximo da Esphera. Grao he hũa de 360
+                        <lb/> partes iguaes, em que se diuide qualquer Circulo ma
+                        <lb break="no"/>xímo ou naõ maximo, por onde seue q os taes graos
+                        <lb/> seraõ mayores nos Circulos mais grãdes que nos pe-
+                        <lb break="no"/>quenos, mas quaesquer que sejaõ ceda grao tem 60.
+                        <lb/> minutos, &#x26; cada minuto 60 segundos; &#x26; cada segun-
+                        <lb break="no"/>do 60. tetceiros,&#x26; assí continuando ate dez. Com
+                        <lb/> estas declarações podemos seguramẽte inquirir que
+                        <lb/> cousa seja Esphera, &#x26; será bem vermolo no cap. se-
+                        <lb break="no"/>guinte.</p>
+                </div>
+                <div type="chapter" n="3">
+                    <head type="main">
+                        <hi rend="uppercase">Capitvlo <num type="roman" value="3">III</num>.</hi>
+                    </head>
+                    <head type="sub">
+                        <hi rend="italic">Da definiçaõ da Esphera.</hi>
+                    </head>
+
+                    <p>Evclydes no principio do liu. II. diz ser a Esphera
+                        <lb/> hum transito ou volta perfeita de hum Semicir-
+                        <lb/>culo, estando fixo o Diametro sobre que se mo-
+                        <lb/>ue. A qual definiçaõ com pouca fidelidade refere o<pb/>
+                        <lb/> Ingles Sacrobosco no cap. 1. de sua Esphera, pondo
+                        <lb/> em lugar da paura Semicirculo circunferencia, &#x26;
+                        <lb/> adeclara com menos verdade, pois a circunferencia
+                        <lb/> ou arco de Semicirculo trazido ao redos em volta
+                        <lb/> perfeita descreue somente hũa Superficie redonda, &#x26;
+                        <lb/> naõ algũ corpo, como o sobredito declara &#x26; quer.</p>
+                    <p>Hase porem de notar pera se entender a definiçaõ
+                        <lb/> de Euclydes que os mathematicos pela declararem
+                        <lb/> a natureza da linha, superficie, &#x26; corpo quantitatiuo
+                        <lb/> fingem com consideração fazerse a linha de hum
+                        <lb/> rastro que hum ponto indiuisiuel mouido de hũa par
+                        <lb break="no"/>te pera outra deizara. A qual imaginação (posto que
+                        <lb/> verdadeira naõ seja, nem elles por tal auendão) aiuda
+                        <lb/> muito pera se entender o comprimento da linha in-
+                        <lb break="no"/>capaz de toda a largura &#x26; profundidade. Da mesma
+                        <lb/> maneira consideraõ a superficie como se resultasse
+                        <lb/> do mouimento da linha trazida ao trauez. E o cor-
+                        <lb break="no"/>po dizem ter aquelle que a Superficíe mouida de al-
+                        <lb break="no"/>to abaixo descreuera. donde se entendera não ter a
+                        <lb/> linha mais que hũa só dimenção, como falão os Phi-
+                        <lb break="no"/>losophos, que he o comprimento: a superficíe ter duas
+                        <lb/> couem asaber comprimento &#x26; largura: &#x26; o corpo
+                        <lb/> todas tres, que saõ comprimento, largura, &#x26; profun-
+                        <lb break="no"/>didade. Dizendo pois Euclydes que a Esphera se fa-
+                        <lb break="no"/>zia de hũa volta inteira de qualquer Semicirculo, de
+                        <lb break="no"/>clarou ser a Esphera hum corpo perfeitamente redon
+                        <lb break="no"/>do, solido, &#x26; masisso, ou por melhor dizer mostrou co
+                        <lb break="no"/>mo da volta do Semicirculo se fazia o tal corpo, por
+                        <lb/> onde a alguns descontenta a sobre dita definiçaõ.</p>
+                    <p>Theodosio na definiçaõ 1. do 1. liu. dos Elemen-
+                        <lb break="no"/>tos esphericos define a Esphera desta maneira. Esphe
+                        <lb break="no"/>ra he hũa figura solida comrehendida de hũa só Su-<pb/>
+                        <lb break="no"/>perficíe, em aqual todas as linhas que tiradas de hum
+                        <lb/> ponto que no meyo da tal figura esta, seterminaõ &#x26;
+                        <lb/> saõ entresi iguaes. Esta definição antepoem alguns a
+                        <lb/> de Euclydes, &#x26; a outros cententa mais a que Aris-
+                        <lb break="no"/>totels no liu. 7. da metap. da dizendo em breues pa-
+                        <lb break="no"/>lauras ser a Esphera hũa figura igual do meyo.</p>
+                    <p>Quem as sobreditas definições que saõ as melho-
+                        <lb break="no"/>res &#x26; mais principaes que da Esphera se achão assi
+                        <lb/> nos auctores antigos como modernos quizer con-
+                        <lb break="no"/>siderar, achara que nenhũa dellas serue a Esphera Ar
+                        <lb break="no"/>tificial, de que tratamos, por que somente declaraõ
+                        <lb/>que cousa seja hum corpo perfeitamente redondo,
+                        <lb/> por onde a verdadeira definiçaõ sera aseguinte. Es-
+                        <lb break="no"/>phera Artificial he hum instrumento redondo com-
+                        <lb break="no"/>posto de varios Circulos, pellos quaes se mostra a fi-
+                        <lb break="no"/>gura &#x26; sitio do vniuerso cõ mouimentos dos ceos
+                        <lb/> &#x26; outras cousas que nelles imaginamos.</p>
+                </div>
+                <div type="chapter" n="4">
+                    <head type="main">
+                        <hi rend="uppercase">Capitvlo <num type="roman" value="4">IIII</num>.</hi>
+                    </head>
+                    <head type="sub">
+                        <hi rend="italic">Da diuisaõ da Esphera.</hi>
+                    </head>
+
+                    <p>Diuidese a Esphera Artificial em diz Circulos de
+                        <lb/> que como partes integrantes se compoem, seis
+                        <lb/> dos quaes se chamão mayores ou maximos, cu-
+                        <lb break="no"/>jos nomes saõ os que se seguem; Horizonte, Meri-
+                        <lb break="no"/>diano, Equinocial, Zodiaco, Coluro dos Equinocios,
+                        <lb/> &#x26; Coluro dos Solsticios. Estes por seremcirculos ma
+                        <lb break="no"/>ximos se cortão hũs aos outros pello meyo em duas
+                        <lb/> partes iguaes passando pello centro da Esphera, do
+                        <lb/> qual todos se descreuem. Os outros quatro se cha-
+                        <lb break="no"/>mão menores, &#x26; saõ seus nomes os seguintes, Tropi-
+                        <lb break="no"/>co de Cancro, Tropico de Capricornio, Circulo Ar-<pb/>
+                        <lb break="no"/>ctico, Circulo Antarctico, sendo cada dous iguaes en-
+                        <lb break="no"/>tre si, conuem a saber, o primeiro &#x26; segundo, terceiro
+                        <lb/> &#x26; quarto, mas seus centros saõ bem diuersos. De ca-
+                        <lb break="no"/>da hum destes Circulos importa falar em particular,
+                        <lb/> como o faremos nos capitulos seguintes, guardando
+                        <lb/> no tratar a ordem que no porpor de seus nomes tiue
+                        <lb break="no"/>mos, porque posto que a Equinocial seja o mais no-
+                        <lb break="no"/>bre, &#x26; proueitoso Circulo da Esphera, &#x26; assi por essa
+                        <lb/> rezão tenha entre elles o primeiro lugar em ordem
+                        <lb/> de dignidade, n~ao o tem na ordem do tratar saluo en
+                        <lb break="no"/>tre os Circulos intrinsecos a Esphera, &#x26; sobre tudo pa
+                        <lb break="no"/>receunos assi melhro por muitas rezões, que não he
+                        <lb/> necessario referir.</p>
+                </div>
+                <div type="chapter" n="5">
+                    <head type="main">
+                        <hi rend="uppercase">Capitvlo <num type="roman" value="5">V</num>.</hi>
+                    </head>
+                    <head type="sub">
+                        <hi rend="italic">Do nome &#x26; definição do Horizonte.</hi>
+                    </head>
+
+                    <p>Da diuisaõ que este Circulo faz na Esphera diui-
+                        <lb break="no"/>dindoa em dous Hemispherios, hũ manifesto &#x26;
+                        <lb/> outro occulto lhe procedeo o nome de Hori-
+                        <lb break="no"/>zonte, que quer dizer terminador, deriuado da pala-
+                        <lb break="no"/>ura Grega Horizon, que significa termino. Marciano
+                        <lb/> lhe chama pella mesma rezão Finitor, &#x26; Ptolomeo &#x26;
+                        <lb/> Alphragano Circulo do Hemispherio; cuja definiçaõ
+                        <lb/> he a seguinte.</p>
+                    <p>Horizonte he hũ Circulo maximo, o qual estando
+                        <lb/> fixo &#x26; immouel na Esphera, a diuide em dous He
+                        <lb break="no"/>mispherios, superior, &#x26; inferior, &#x26; se diz cõm&#x169;men-
+                        <lb break="no"/>te ser extrinseco a ella, por estar &#x26; ficar por de fora a
+                        <lb/> os mais Circulos encerrandoos em si sem com elles se
+                        <lb/> mouer a roda. E posto que na Esphera não aja mais
+                        <lb/> que hum so Circulo que represente o Horizonte, tem<pb/>
+                        <lb/> porem cada terra ou lugar seu particular Horizonte
+                        <lb/> fixo &#x26; immouel, como dissemos, cujos Polos saõ os
+                        <lb/> dous pontos mais remetos &#x26; apartados, que na Su-
+                        <lb break="no"/>perficie do Meridiano de cada terra ou lugar estaõ,
+                        <lb/> hũ dos quaes se chama Zenith, &#x26; he o que descuber-
+                        <lb break="no"/>to a nossa vista nos fica sobre a cabeça, donde tambẽ
+                        <lb/> se chama ponto vertical, tomando o nome da pala-
+                        <lb break="no"/>ura Latina, vertex que em nosso Portugues val o mes
+                        <lb break="no"/>mo que o mais alto ponto da cabeça; o outro se cha-
+                        <lb break="no"/>ma Nadith, o qual estan donos encuberto, por entre
+                        <lb/> nos &#x26; elle se meter o globo da terra, fica debaixo de
+                        <lb/> nossos pés opposto no primeiro por linha direita, a
+                        <lb/> qual por passar por elles ambos se chama linah do Ze
+                        <lb break="no"/>nith &#x26; Nadith. Donde se segue necessariamente cor
+                        <lb break="no"/>tarse sempre o Horizonte de cada terra com o seu
+                        <lb/> Meridiano a Angulo rectos espheraes, &#x26; acompa-
+                        <lb break="no"/>nharemse estes dous Circulos, de maneira, que mudã-
+                        <lb break="no"/>dose o Meridiano se muda tambem o Horizonte, &#x26;
+                        <lb/> mudando se este se ja de mudar aquelle, com tanto po
+                        <lb break="no"/>rem, que não seja de Norte a Sul, nem Sul a Norte,
+                        <lb/> porque então bem se pode mudar o Horizonte sem
+                        <lb/> que se mude o Meridiano, por auer esta differença
+                        <lb/> entre elles que o Horizonte se muda de Oriente a O-
+                        <lb break="no"/>cidẽte, de Occidente a Oriente, de Norte a Sul, &#x26; Sul
+                        <lb/> a Norte, mas o Meridiano de Oriente a Occidente,
+                        <lb/> &#x26; de Occidente a Oriente somente, sendo causa des-
+                        <lb break="no"/>tas mudanças a redondeza da terra; &#x26; assi compre-
+                        <lb break="no"/>hendendo o maior Circulo que pella Superficie del-
+                        <lb break="no"/>la se pode lançar 63000. legoas (conforme a opinião
+                        <lb/> mais seguida dos Cosmographos modernos) &#x26; auen-
+                        <lb break="no"/>do de distancía entre cada Horizonte dez legoas fa-
+                        <lb break="no"/>lando sensiuelmente pouco mais ou menos, ficarão<pb/>
+                        <lb/> sendo os Horizontes 315. contando somente de O-
+                        <lb break="no"/>riente a Occidente, ou de Occidente a Oriente, &#x26; de
+                        <lb/> Norte a Sul, ou Sul a Norte, porque contando per
+                        <lb/> duas partes seriaõ 630 por tres 945 &#x26; por todas qua
+                        <lb break="no"/>tro 1260. o que se não pode fazer.</p>
+                </div>
+                <div type="chapter" n="6">
+                    <head type="main">
+                        <hi rend="uppercase">Capitvlo <num type="roman" value="6">VI</num>.</hi>
+                    </head>
+                    <head type="sub">
+                        <hi rend="italic">Da diuisaõ do Horizonte.</hi>
+                    </head>
+
+                    <p>Deixada a diuisaõ do Horizonte em seus 360.
+                        <lb/> graos, diuidese primeiramente em Verdadeiro,
+                        <lb/> Visual, &#x26; Artificial. O verdadeiro he o a quem
+                        <lb/> compete a definição que no cap. antecedente demos,
+                        <lb/> a qual por ser verdadeira lhe dá o nome, &#x26; postoque
+                        <lb/> tambem se chame Natural, por diuidir naturalmen-
+                        <lb break="no"/>te o ceo &#x26; a terra em duas ametades iguaes, &#x26; Racio
+                        <lb break="no"/>nal, por se alcançar com o discurso &#x26; rezão, vsare-
+                        <lb break="no"/>mos contudo somente do primeiro nome, pera pro-
+                        <lb break="no"/>cedermos com mais destinção. O Visual he aquelle
+                        <lb/> que se imagina descrever pellos pontos onde se ter-
+                        <lb break="no"/>não as linhas ou rayos visuaes, de que elle toma o
+                        <lb/> nome, que saõ os que tirados de nossa vista tocão na
+                        <lb/> Superficie do ceo, &#x26; ainda que por outros nomes so
+                        <lb/> chame Sensiuel, por se ver com o sentido da vista, &#x26;
+                        <lb/> Apparente, por apparecer a ella, seruirnos ha somen-
+                        <lb break="no"/>te o nome de Sisual, pella rezão que acima acerca
+                        <lb/> do Verdadeiro dissemos. O Artificial, assi chamado
+                        <lb/> por elle ser o que nos mostraõ os artificiosos instru-
+                        <lb break="no"/>mentos de que vsaõ os Astronomos, he o que toca na
+                        <lb/> Superficie da terra onde estamos auendo de distan-
+                        <lb break="no"/>cia entre elle &#x26; o Verdadeiro tanto quanto he o Se-
+                        <lb break="no"/>midiametro da terra.</p>
+                    <pb/>
+                    <p>Estes tres Horizontes saõ circulos parallellos, por
+                        <lb/> quanto os Polos de todos tres saõ os mesmos, cõuem
+                        <lb/> a saber, os pontos do Zenith &#x26; Natith, mas seus cen
+                        <lb break="no"/>tros saõ diuersos, porque o do Verdadeiro he o mes-
+                        <lb break="no"/>mo que o do mundo, o do Visual fica na linha do Ze
+                        <lb break="no"/>nith &#x26; Nadith por baixo do centro do Verdadeiro,
+                        <lb/> o do Artifial esta na Superficie da terra, onde toca a
+                        <lb/> dita linha. e porque assi como dento de hũ Circulo
+                        <lb/> so aquellas linhas se chamão maximas, as quaes pas-
+                        <lb break="no"/>saõ por seu centro, &#x26; rodas as mais ficaõ sendo não
+                        <lb/> maximas, assi dos ditos Horizontes, como quer que
+                        <lb/> so o Verdadeiro passe pello centro do mundo, por
+                        <lb/> isso só elle fica sendo Circulo maximo, &#x26; não os ou-
+                        <lb break="no"/>tros, por não passarem pello dito centro. Donde se se
+                        <lb break="no"/>gue só o Horizonte Verdadeiro diuidir o ceo &#x26; a ter
+                        <lb break="no"/>ra em dous Hemispherios iguaes, o Visual fazer ma-
+                        <lb break="no"/>ior o Hemispherio superior que o inferior, &#x26; pello
+                        <lb/> contrario o Artificial. Mas por quanto hum auctor
+                        <lb/> graue &#x26; moderno, a cujo nome perdoamos, chama
+                        <lb/> em seus escritos &#x26; commentarios Horizonte Visual
+                        <lb/> ao que nos chamamos Artificial, dizendo não auer
+                        <lb/> maior distancia entre o Visual &#x26; Verdadeiro, que
+                        <lb/> o Semidiametro da terra, poremos aqui em con-
+                        <lb break="no"/>firmação de nossa doutrina a seguinte demonstra-
+                        <lb break="no"/>ção.</p>
+                    <p>No tempo da opposição do Sol &#x26; Lua, quando a-
+                        <lb break="no"/>contece no Horizonte Verdadeiro, ou perto delle, ap
+                        <lb break="no"/>parecem inteiros os ditos dous planetas, hum da par
+                        <lb break="no"/>te oriental, &#x26; outro da occidental, como se tem por
+                        <lb/> vezes obseruado, sendo logo o Horizonte Visual a-
+                        <lb break="no"/>quelle que se descreue pellos pontos onde os rayos
+                        <lb/> visuaes tocaõ a Superficie do ceo, como o proprio<pb/>
+                        <lb/> auctor confessa, seguese necessariamente verse de
+                        <lb/> qualquer lugar desembaraçado &#x26; patente, tanto mais
+                        <lb/> de a metade do ceo, quanto importa o Semidiame-
+                        <lb break="no"/>tro inferior do corpo solar, o qual sendo muito ma-
+                        <lb break="no"/>yor que o Semidiametro da terra, pois o corpo do
+                        <lb/> Sol he 166. vezes &#x26; tres quartos mayor que toda a
+                        <lb/> terra, como prouão os Geometras &#x26; Cosmographos,
+                        <lb/> cuidentemente se demonstra distar o Horizonte Vi-
+                        <lb break="no"/>sual Verdadeiro mais do que importa o Semidia-
+                        <lb break="no"/>metro da terra. E posto que o olho do que obserua si-
+                        <lb break="no"/>tuado na Superficie da terra não possa ser a metade
+                        <lb/> della, por causa de sua redondeza, mas somente veja
+                        <lb/> o espaço comprehendido entre os rayos visuaes tan-
+                        <lb break="no"/>gentes a sua Superficie, como demonstrão os Perspe-
+                        <lb break="no"/>ctiuos, naõ deixara por isso de ver a metade &#x26; mais
+                        <lb/> de a metade do ceo, por quanto os ditos rayos cortão
+                        <lb/> mòr arco do deo que da terra, por esta em compara-
+                        <lb break="no"/>çaõ daquelle ser quasi hum ponto, como prouão os
+                        <lb/> Cosmographos.</p>
+                    <p>Pratiquemos isto pera mor clareza na siguin-
+                        <lb break="no"/>te figura, em a qual o Circulo mayor representa
+                        <lb/> o concauo do ceo Empyreo, &#x26; o menor o glo-
+                        <lb break="no"/>bo que os dous Elementos Terre, &#x26; Agoa jun-
+                        <lb break="no"/>tos fazem, cujo centro he o ponto A, pello qual
+                        <lb/> lançada a linha direita B, A, D, &#x26; atrauessando
+                        <lb/> a com a perpendicular C, A, E, pello ponto A, fi-
+                        <lb break="no"/>cara representando a linha B, A, D, o Horizonte
+                        <lb/> Verdadeiro, o qual diuide em duas partes iguaes,
+                        <lb/> assi o ceo como a terra, por ser linha diametral em
+                        <lb/> ambos os Circulos, imaginada como Superficie
+                        <lb/> redonda plana, cuja Perispheria se descreue do<pb/>
+                        <lb/> ponto (### imagem) A, que he seu centro. Da mesma maneira a
+                        <lb/> linha G, F, H, lançada pellos pontos G, &#x26; H, onde as
+                        <lb/> linhas visuaes I, G, &#x26; I, H, tiradas de nossa vista se vão
+                        <lb/> rematar no concauo do Empyereo, representa a Su-
+                        <lb break="no"/>perficie do Horizonte Visual, cujo centro he o pon-
+                        <lb break="no"/>to F. A linha L, I, M, reprezenta o Horizonte Artifi-
+                        <lb break="no"/>cial, seu centro he o ponto I, A linha C, A, E; he a do
+                        <lb/> Zenith &#x26; Nadith, &#x26; serue de Eixo de todos os tres
+                        <lb/> Horizontes, cujos extremos C, he o Zenith, &#x26; E o Na
+                        <lb break="no"/>dith. A linha N, O, que dentro da terra estâ represen-
+                        <lb break="no"/>ta o espaço que de sua Superficie cortão os rayos ví-
+                        <lb break="no"/>suaes. O Circulo H, P, Q, representa o corpo do Sol,
+                        <lb/> &#x26; o R, S, T, o da Lua.</p>
+                    <p>Na mesma figura se ve o excesso que leua na gran
+                        <lb break="no"/>deza o arco que no Empyreo corta o Horizonte Vi-
+                        <lb break="no"/>sual aos que cortão os dous Horizontes; por-
+                        <lb break="no"/>que o do Horizonte Visual he o arco G, C, H, o do<pb/>
+                        <lb/> Verdadeiro, he o arco B, C, D, o do Artificial he o ar-
+                        <lb break="no"/>co L, C, M, &#x26; assi o do Verdadeiro &#x26; Artificial ficão
+                        <lb/> sendo partes do Visual, &#x26; muito menores que elle,
+                        <lb/> &#x26; delles todos so o Verdadeiro diuide em dous He-
+                        <lb break="no"/>mispherios iguaes o mũdo todo, porque o Visual faz
+                        <lb/> muito mayor o Hemispherio supeior que o inferior
+                        <lb/> &#x26; o Artificial pello contrario faz mayor o inferior
+                        <lb/> que o superior.</p>
+                    <p>Vista a pouca differença que entre o Horizonte,
+                        <lb/> Verdadeiro, &#x26; Artificial ha, pois não he mais que hũ
+                        <lb/> Semidiametro da terra, que pera as obseruações as-
+                        <lb break="no"/>tronomicas vem a ser cousa imperceptiuel nos instru
+                        <lb break="no"/>mentos, confundem os a ambos os Astronomos to-
+                        <lb break="no"/>mando ja hum por outro, mas na verdade sempre se
+                        <lb/> entende falarem do Horizonte Verdadeiro.</p>
+                    <p>O qual se diuide segundariamente em Recto &#x26; Ob
+                        <lb break="no"/>liquo. Horizonte Recto, ou Esphera recta, como ou-
+                        <lb break="no"/>tros chamão, he aquelle, cujos Polos estão na cõmum
+                        <lb/> secção ou cortemento, que o Meridiano faz com a E-
+                        <lb break="no"/>quinocial; pella qual rezão estes tres Circulos, Hori-
+                        <lb break="no"/>zonte Recto, Meridiano, &#x26; Equinocial se cortão em
+                        <lb/> partes iguaes, &#x26; a Angulos rectos espheraes, ficando
+                        <lb/> os Polos do mundo no dito Horizonte. O Horizon-
+                        <lb break="no"/>te Oblíquo ou Esphera obliqua se chama aquelle, cu-
+                        <lb break="no"/>jos Polos naõ estaõ na Equinocial, posto que estejaõ
+                        <lb/> no Meridiano, &#x26; assim com este se corta a Angulos re-
+                        <lb break="no"/>ctos espheraes, &#x26; com aquella a Angulos espheraes
+                        <lb/> obliquos por onde os Polos do mundo não estão em
+                        <lb/> sua Superficie, mas hũ sempre apparente &#x26; leuantado
+                        <lb/> sobre elle, &#x26; outro occulto, &#x26; debaixo delle; onde cõ
+                        <lb break="no"/>uem aduertir que dos moradores da terra aquelles di
+                        <lb break="no"/>zem os Astronomos terẽ Horizonte Rectos, os quaes<pb/>
+                        <lb/> tem o Zenith na Equinocial, &#x26; os dous Polos do mũ
+                        <lb break="no"/>do no Horizonte Verdadeiro, &#x26; todos os que habi-
+                        <lb break="no"/>tão fora da Equinocial se dizem ter Horizontes Obli-
+                        <lb break="no"/>quo, &#x26; obliquissimo os que chegão a ter por Zenith
+                        <lb/> qualquer dos Polos do mundo, os quaes como sejão
+                        <lb/> os mesmos que os da Equinocial, vnirseão estes dous
+                        <lb/> Circulos Horizonte obliquissimo, &#x26; Equinocial, &#x26; fi
+                        <lb break="no"/>carão sendo hum só.</p>
+                </div>
+                <div type="chapter" n="7">
+                    <head type="main">
+                        <hi rend="uppercase">Capitvlo <num type="roman" value="7">VII</num>.</hi>
+                    </head>
+                    <head type="sub">
+                        <hi rend="italic">Do nome &#x26; definição do Meridiano.</hi>
+                    </head>
+
+                    <p>He chamado este Circulo Meridiano, por nelle
+                        <lb/> se fazer o meyo dia, &#x26; meya noite em qualquer
+                        <lb/> parte do mundo, &#x26; mem qualquer tempo do an-
+                        <lb break="no"/>no, que o Sol com o mouimento do primeiro mouel
+                        <lb/> chegua a elle, &#x26; assi se chama tambem Circulo do
+                        <lb/> meyo dia, &#x26; da meya noite: os judiciarios lhe cha-
+                        <lb break="no"/>mão ponta ou couseira real, principio da decima ca-
+                        <lb break="no"/>sa celeste, &#x26; meyo do ceo, o qual se define desra ma-
+                        <lb break="no"/>neira.</p>
+                    <p>Medridiano he hum Circulo maximo, que diuide a
+                        <lb/> Esphera em duas ametades iguaes, a qual he extrin-
+                        <lb break="no"/>seco, passando por ambos seus Polos, ou seja na recta,
+                        <lb/> ou na obliqua, &#x26; juntamento pello ponto vertical ou
+                        <lb/> Zenith do lugar de que he Meridiano. E assi passan-
+                        <lb break="no"/>do pellos pontos verticaes, os quaes saõ innumera-
+                        <lb break="no"/>ueis segundo as variedades dos habitadores da terra,
+                        <lb/> seguese necessariamente auerem se de imaginar tan
+                        <lb break="no"/>tos Meridianos, quantos pontos verticaes se imagi-
+                        <lb break="no"/>não na Circunferencia de algum Circulo parallello
+                        <lb/> Equinocial de Oriente a Occidente, falando geome-
+                        <lb break="no"/>tricamente, &#x26; em rigor, por onde hũa mesma cida-
+                        <lb break="no"/>de tera muitos meridianos, porque a parte della que
+                        <lb/> for mais oriental tera hum Meridiano deferente do
+                        <lb/> da parte occidental.</p>
+                    <p>Tratando porem isto mais materialmente, &#x26; se-
+                        <lb break="no"/>gundo a sensiuel variedade que nos Meridianos se co
+                        <lb break="no"/>nhece, dizemos auer em toda a redondeza da terra
+                        <lb/> 315. Meridianos, auendo de distancia entre hum &#x26;
+                        <lb/> outro dez legoas, do modo que do Horizonte aue-
+                        <lb break="no"/>mos dito, não entendendo com tudo ser esta regra
+                        <lb/> precissamente certa, senão pouco mais ou menos, &#x26;
+                        <lb/> assi considerados os Meridianos desta maneira, não
+                        <lb/> somente hũa mesma cidade tera o mesmo Meridia-
+                        <lb break="no"/>no, mas tambem o terão muitas, contando porem que
+                         não distem mais que dez legoas hũas das outras pel-
+                         <lb break="no"/>la Equicional, sendo a distancia de Oriente a Occi-
+                         <lb break="no"/>dente, ou de Occidente a Oriente, porque sendo de
+                         <lb/> norte a Sul, ou Sul a Norte, por muita que seja, todas
+                         <lb/> terão hum mesmo Meridiano, o qual passara por to-
+                         <lb break="no"/>dos os pontos verticais dellas assinalados em sua
+                         <lb/> Circunferencia, porquanto o Meridiano naõ se mu-
+                         <lb break="no"/>da de Norte a Sul, nem Sul a norte, como no capi-
+                         <lb break="no"/>tulo 5. dissemos. Os Geographos porem seguindo a
+                         <lb/> Ptolomeo, pera descripção da terra descreuem 180.
+                         <lb/> meridianos, pera que asso por cada grao da Equi-
+                         <lb break="no"/>nocial passe hum Meridiano, mas nos globos terre-
+                         <lb break="no"/>stres, &#x26; mappas somente se descreuem doze Meri-
+                         <lb break="no"/>dianos, os quaes diuidem a Equinocial em 24. par-
+                         <lb break="no"/>tes iguaes, ficando comprehendidos entre cada dous
+                         <lb/> 15. graos della.</p>
+                </div>
+                <div type="chapter" n="8">
+                    <head type="main">
+                        <hi rend="uppercase">Capitvlo <num type="roman" value="8">VIII</num>.</hi>
+                    </head>
+                    <head type="sub">
+                        <hi rend="italic">Da diuisaõ do Meridiano</hi>
+                    </head>
+
+                    <p>Supposta a diuisaõ do Meridiano em 360. graos,
+                        <lb/> diuidese em Verdadeiro, &#x26; Particula. O Verda-
+                        <lb/>deiro he aquelle q passa pellos põtos verticaes das
+                        <lb/> ilhas das Canarias, &#x26; Cabo Verde, &#x26; do qual se come
+                        <lb break="no"/>ção a contar as longuras das cidades, de q logo abai-
+                        <lb break="no"/>xo diremos. O Particular se diz, aquelle que cada ter
+                        <lb break="no"/>ra ou lugar particular tem. Onde se ha de notar que
+                        <lb/> posto que nos corpos redondos (qual he o globo da
+                        <lb/> terra &#x26; agoa) não aja longura algũa, se propriamen-
+                        <lb break="no"/>te se ouuer de falar, por não serem mais compridos
+                        <lb/> por hũa parte que por outra, o que era necessario pe-
+                        <lb break="no"/>ra se poderem chamar longos, contudo os Geogra-
+                        <lb break="no"/>phos antiguos não considerando o sobredito globo
+                        <lb/> absolutamente, mas em respeito da parte da terra,
+                        <lb/> que tinhão por habitalvel, vendo que esta era mais
+                        <lb/> comprida de Oriente a Occidente, que de norte a
+                        <lb/> Sul, &#x26; que o mouimento dos planetas era mais com-
+                        <lb break="no"/>prido de Oeste a Leste, que de Polo a Polo, assenta-
+                        <lb break="no"/>ram que a longura das terras ou lugares se chamasse
+                        <lb/> o apartamento que tiuessem do Meridiano Verda-
+                        <lb break="no"/>deiro, chamado por outro nome Meridiano das Ca-
+                        <lb break="no"/>narias, pella rezão que assima dissemos, por ser a ter-
+                        <lb break="no"/>ra mais occidental de que naquelle tempo se tinha
+                        <lb/> noticia, o qual apartamento ou longura se estende pe-
+                        <lb break="no"/>ra hũa &#x26; outra parte do Meridiano nomeado por di-
+                        <lb break="no"/>stancia de 180. graos contados na Equinocial pera
+                        <lb/> Oriente &#x26; Occidente.</p>
+                    <p>Mas ainda que os terminos desta longura em<pb/>
+                        <lb/> qualquer cidade 6 lugar sejão o Meridiano das Ca-
+                        <lb break="no"/>narias, &#x26; o que passa pella tal cidade ou lugar, &#x26; as
+                        <lb/> terras ou lugares que estão debaixo do mesmo Me-
+                        <lb break="no"/>rididano tenhão igual longura, nem por isso se ha de
+                        <lb/> cuidar terem todas a mesma distancia de caminho
+                        <lb/> ate o Meridiano das Canarias, nem os graos serem
+                        <lb/> do mesmo tamanho, mas segundo os Circulos paral
+                        <lb break="no"/>lellos à Equinocial, em que se contão; donde se en-
+                        <lb break="no"/>tendera não respinder igual caminho a igual dif-
+                        <lb break="no"/>ferença longitudinal (que he o excesso que leua a
+                        <lb/> longura de hã cidade à longura da outra, como se
+                        <lb/> hã tem 50. graos de longura, &#x26; a outra 20. dirze
+                        <lb/> ha auer de differença longitudinal entre as ditas
+                        <lb/> cidades dez legoas) mas conforme o parallello em
+                        <lb/> que dicarem os lugares, &#x26; assi cada terra das que tem
+                        <lb/> diuersa longura tem seu particular Meridiano, po-
+                        <lb break="no"/>rem as que tem a mesma longura, tem tambem o
+                        <lb/> mesmo Meridiano.</p>
+                </div>
+                <div type="chapter" n="9">
+                    <head type="main">
+                        <hi rend="uppercase">Capitvlo <num type="roman" value="9">IX</num>.</hi>
+                    </head>
+                    <head type="sub">
+                        <hi rend="italic">Do nome &#x26; difinição da Equinocial.</hi>
+                    </head>
+                    
+                    <p>A rezão &#x26; ethymologia do nome da Equinocial,
+                        <lb/> ou como o Grego lhe chama Equidial, he por no
+                        <lb/> tempo em q o Soil nella anda, q he duas vezes no
+                        <lb/> ãno; hũa aos 21. de Março, &#x26; outra aos 23. de Setẽbro,
+                        <lb/> fazer em todas as partes do mũdo, onde a Equinocial
+                        <lb/> se corta cõ o Horizonte, os dias artificiaes iguaes, ou
+                        <lb/> quas iguaes as noites da mesma denominação, por
+                        <lb/> quanto sendo estes dous Circulos maximos necessa-<pb/>
+                        <lb break="no"/>riamente se hão de diuidir em duas a metades iguaes.
+                        <lb/> Dia artificial (assi chamado, por nelle exercitarem
+                        <lb/> os artificies seus officios, &#x26; operações) he todo o tem-
+                        <lb break="no"/>po que o Sol se derem sobre nosso Hemispherio do
+                        <lb/> ponto em que com seu Centro toca no Horizonte da
+                        <lb/> parte do Oriente, ate da parte occidental tornar a
+                        <lb/> por o mesmo Centro no Horizonte: &#x26; o que gasta
+                        <lb/> andando pello Hemispherio inferior apartado de
+                        <lb/> nossa vista se chama noite artificial; porque como
+                        <lb/> quer que o mouimento do Sol de Oriente a Occiden
+                        <lb break="no"/>te seja igual, ou quasi igual ao de Occidente a Orien-
+                        <lb break="no"/>te, tanto ha de gastar mouendose de Oriente a Occi-
+                        <lb break="no"/>dente, que he o arco da duração do dia, como de Oc-
+                        <lb break="no"/>cidente a Oriente, que he o da duraçaõ da noite. E
+                        <lb/> por quanto as espiras que o Sel com seu mouimento
+                        <lb/> faz, não se cortão da mesma maneira com todos os
+                        <lb/> Horizontes, mas em hũas partes ficão sendo maiores
+                        <lb/> as de sima, em outras as de baixa, &#x26; noutras todas i-
+                        <lb break="no"/>guaes, daqui bem que sendo os taes arcos os da quan
+                        <lb break="no"/>tidade dos dias, &#x26; noites artificiaes, não podem ser
+                        <lb/> elles iguaes entre si em nenhũa parte da terra, mais
+                        <lb/> que debaixo da Equinocial, onde assi os dias como
+                        <lb/> as noites saõ em todo o anno iguaes, cada hũa de 12.
+                        <lb/> horas, por no tal lugar somente o Horizonte cortar
+                        <lb/> os parallellos, ou espiras do mouimento do Sol em
+                        <lb/> duas ametades iguaes; mas como nas terras que tem
+                        <lb/> por Zenith qualquer dos Polos do mundo seu Hori-
+                        <lb break="no"/>zonte naõ se corte com a Equinocial, antes sejão hũa
+                        <lb/> mesma cousa, por isso nas taes partes naõ pode auer
+                        <lb/> Equinocios, por  naõ auer variedade de dias &#x26; noites,
+                        <lb/> mais que hum dia &#x26; hũa noite em todo o anno. Ou-
+                        <lb break="no"/>tros nomes tem tambem a Equinocial, porque Pto-<pb/>
+                        <lb break="no"/>lomeo lhe chama Circulo &#x26; Orbe da equaçaõ do
+                        <lb/> dia, Rabano Circulos dos Equinocios, Plinio centro
+                        <lb/> da terra, porque dos seus parallellos (que saõ os que
+                        <lb/> pera hũa &#x26; outra parte dos Polos se imaginaõ) só el-
+                        <lb break="no"/>la he a que pello Centro da terra passa, &#x26; pella mes-
+                        <lb break="no"/>ma rezão he chamada de algũs Astronomos o maxi-
+                        <lb break="no"/>mo dos parallellos, &#x26; vulgarmente a Linha, cuja de-
+                        <lb break="no"/>finição he a seguinte.</p>
+                    <p>A Equinocial he hum Circulo maximo, que diui-
+                        <lb break="no"/>de a Esphera em duas partes iguaes, a qual he intrin-
+                        <lb break="no"/>seco, equidistando dos Polos da Esphera, os quaes saõ
+                        <lb/> tambem os seus.</p>
+                </div>
+                <div type="chapter" n="10"></div>
+                <div type="chapter" n="11"></div>
+                <div type="chapter" n="12"></div>
+                <div type="chapter" n="13"></div>
+                <div type="chapter" n="14"></div>
+                <div type="chapter" n="15"></div>
+                <div type="chapter" n="16"></div>
+            </div>
+            <div type="book" n="2">
+                <div type="preface"></div>
+                <div type="chapter" n="1"></div>
+                <div type="chapter" n="2"></div>
+                <div type="chapter" n="3"></div>
+                <div type="chapter" n="4"></div>
+                <div type="chapter" n="5"></div>
+                <div type="chapter" n="6"></div>
+                <div type="chapter" n="7"></div>
+            </div>
+            <div type="book" n="3">
+                <div type="preface"></div>
+                <div type="chapter" n="1"></div>
+                <div type="chapter" n="2"></div>
+                <div type="chapter" n="3"></div>
+                <div type="chapter" n="4"></div>
+                <div type="chapter" n="5"></div>
+                <div type="chapter" n="6"></div>
+                <div type="chapter" n="7"></div>
+                <div type="chapter" n="8"></div>
+                <div type="chapter" n="9"></div>
+                <div type="chapter" n="10"></div>
+                <div type="chapter" n="11"></div>
+                <div type="chapter" n="12"></div>
+                <div type="chapter" n="13"></div>
+                <div type="chapter" n="14"></div>
+                <div type="chapter" n="15"></div>
+                <div type="chapter" n="16"></div>
+                <div type="chapter" n="17"></div>
+                <div type="chapter" n="18"></div>
+                <div type="chapter" n="19"></div>
+                <div type="chapter" n="20"></div>
+                <div type="chapter" n="21"></div>
+                <div type="chapter" n="22"></div>
+                <div type="chapter" n="23"></div>
+                <div type="chapter" n="24"></div>
+                <div type="chapter" n="25"></div>
+                <div type="chapter" n="26"></div>
+            </div>
+            <div type="book" n="4">
+                <div type="preface"></div>
+                <div type="chapter" n="1"></div>
+                <div type="chapter" n="2"></div>
+                <div type="chapter" n="3"></div>
+                <div type="chapter" n="4"></div>
+                <div type="chapter" n="5"></div>
+                <div type="chapter" n="6"></div>
+                <div type="chapter" n="7"></div>
+                <div type="chapter" n="8"></div>
+                <div type="chapter" n="9"></div>
+                <div type="chapter" n="10"></div>
+                <div type="chapter" n="11"></div>
+                <div type="chapter" n="12"></div>
+                <div type="chapter" n="13"></div>
+                <div type="chapter" n="14"></div>
+                <div type="chapter" n="15"></div>
+                <div type="chapter" n="16"></div>
+                <div type="chapter" n="17"></div>
+                <div type="chapter" n="18"></div>
+                <div type="chapter" n="19"></div>
+                <div type="chapter" n="20"></div>
+                <div type="chapter" n="21"></div>
+                <div type="chapter" n="22"></div>
+                <div type="chapter" n="23"></div>
+                <div type="chapter" n="24"></div>
+                <div type="chapter" n="25"></div>
+                <div type="chapter" n="26"></div>
+                <div type="chapter" n="27"></div>
+                <div type="chapter" n="28"></div>
+                <div type="chapter" n="29"></div>
+                <div type="chapter" n="30"></div>
+                <div type="chapter" n="31"></div>
+                <div type="chapter" n="32"></div>
+                <div type="chapter" n="33"></div>
+                <div type="chapter" n="34"></div>
+                <div type="chapter" n="35"></div>
+                <div type="chapter" n="36"></div>
+                <div type="chapter" n="37"></div>
+                <div type="chapter" n="38"></div>
+                <div type="chapter" n="39"></div>
+                <div type="chapter" n="40"></div>
+                <div type="chapter" n="41"></div>
+                <div type="chapter" n="42"></div>
+                <div type="chapter" n="43"></div>
+                <div type="chapter" n="44"></div>
+                <div type="chapter" n="45"></div>
+                <div type="chapter" n="46"></div>
+                <div type="chapter" n="47"></div>
+                <div type="chapter" n="48"></div>
+                <div type="chapter" n="49"></div>
+                <div type="chapter" n="50"></div>
+                <div type="chapter" n="51"></div>
+                <div type="chapter" n="52"></div>
+                <div type="chapter" n="53"></div>
+            </div>
+            <div type="part"></div>
+        </body>
+        <back>
+            <div type="index"></div>
+            <div type="errata"></div>
+
+        </back>
+    </text>
+</TEI>
