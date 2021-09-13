@@ -2,7 +2,7 @@
 
 1. Original Document
     - **Author:** Simão de Oliveira
-    - **Title:** 
+    - **Title:** Arte de Navegar
     - **Publisher:** 
     - **Language:** Portuguese
     - **Notes:** 
