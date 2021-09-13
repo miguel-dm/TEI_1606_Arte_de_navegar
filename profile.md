@@ -10,6 +10,6 @@
 2. Digital Source
     - **Link:** [Biblioteca Nacional Digital]()
 
-3. EPUB
+3. TEI
     - **Text:** complete
     - **Code:** 1st draft 
