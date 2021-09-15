@@ -8,7 +8,7 @@
     - **Notes:** 
 
 2. Digital Source
-    - **Link:** [Biblioteca Nacional Digital]()
+    - **Link:** [Biblioteca Nacional Digital](http://purl.pt/20845)
 
 3. TEI
     - **Text:** complete
